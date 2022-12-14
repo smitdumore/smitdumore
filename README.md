@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Motion planning, controls, ROS**
 
+- Projects: [DWA motion planner](https://github.com/smitdumore/DWA_planner), [RRT motion planning](https://github.com/smitdumore/f110-rrt) 
+
 - 📫 How to reach me **smitd@umd.edu**
 
 <h3 align="left">Connect with me:</h3>
